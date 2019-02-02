@@ -15,7 +15,7 @@
       "48": "assets/images/icon48.png"
    },
    "manifest_version": 2,
-   "name": "SharePoint Hidden Character Destroyer",
+   "name": "Blue Wiki Hidden Character Destroyer",
    "permissions": [  ],
-   "version": "1.0.4"
+   "version": "1.0.5"
 }
